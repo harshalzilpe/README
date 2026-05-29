@@ -3,7 +3,9 @@ Hello , I'm Harshal Zilpe 👨‍💻
 Software Developer | Python • Machine Learning • Deep Learning
 
 🌱 Currently working as a Project Lead
+
 🤖 Specializing in Machine Learning,and Deep Learning
+
 🎯 Goal: Build real-world AI systems and intelligent applications
 
 🔗 Connect With Me
