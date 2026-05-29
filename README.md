@@ -1,12 +1,13 @@
 Hello , I'm Harshal Zilpe 👨‍💻
+
 Software Developer | Python • Machine Learning • Deep Learning
+
 🌱 Currently working as a Project Lead
-🤖 Specializing in Machine Learning, Deep Learning, and Generative AI
-💡 Interested in AI Systems, LLM Applications, and Scalable ML Solutions
+🤖 Specializing in Machine Learning,and Deep Learning
 🎯 Goal: Build real-world AI systems and intelligent applications
+
 🔗 Connect With Me
 Let's connect and collaborate on Machine Learning, AI, and Software Development projects 🚀
-
 💼 LinkedIn: https://www.linkedin.com/in/harshalzilpe2000
 📧 Email: harshalzilpe2000@gmail.com
 🌐 GitHub: https://github.com/harshalzilpe
