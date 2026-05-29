@@ -9,9 +9,13 @@ Software Developer | Python • Machine Learning • Deep Learning
 🎯 Goal: Build real-world AI systems and intelligent applications
 
 🔗 Connect With Me
+
 Let's connect and collaborate on Machine Learning, AI, and Software Development projects 🚀
+
 💼 LinkedIn: https://www.linkedin.com/in/harshalzilpe2000
+
 📧 Email: harshalzilpe2000@gmail.com
+
 🌐 GitHub: https://github.com/harshalzilpe
 
 🚀 Highlight Projects
