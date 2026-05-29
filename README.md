@@ -21,43 +21,30 @@ Let's connect and collaborate on Machine Learning, AI, and Software Development 
 🚀 Highlight Projects
 
 📊 End-to-End ML Projects (Regression, Classification, Clustering)
+
 🧠 Deep Learning Models (ANN, CNN, RNN, NLP)
+
 📦 File Packer & Unpacker (System Utility)
+
 🚀 Technologies I Use
+
 🧑‍💻 Programming Languages
-🐍 Python
-☕ Java
-⚙️ C++
-🔩 C
-🌐 JavaScript
-📊 Data Science & Machine Learning
-📈 Pandas, NumPy
-🤖 Scikit-Learn, XGBoost
-📊 Matplotlib, Seaborn
-🧪 Feature Engineering & Model Evaluation
-⏳ Time Series Forecasting
-🧠 Deep Learning & AI
-🧩 ANN, CNN, RNN
-🔥 TensorFlow, Keras
+
+🐍 Python • ☕ Java • ⚙️ C++ • 🔩 C • 🌐 JavaScript • 📊 Data Science & Machine Learning
+
+📈 Pandas, NumPy • 🤖 Scikit-Learn, XGBoost • 📊 Matplotlib, Seaborn • 🧪 Feature Engineering & Model Evaluation
+⏳ Time Series Forecasting • 🧠 Deep Learning & AI • 🧩 ANN, CNN, RNN • 🔥 TensorFlow, Keras
 👁️ Computer Vision (OpenCV)
-💬 Natural Language Processing (NLP)
-🤖 Generative AI & LLMs
-🌐 Full-Stack Development
-🧱 HTML5, CSS3, Bootstrap
-🌱 Spring Boot
+💬 Natural Language Processing (NLP) • 🤖 Generative AI & LLMs
+🌐 Full-Stack Development • 🧱 HTML5, CSS3, Bootstrap • 🌱 Spring Boot
+
 🗄️ Databases
-🛢️ SQL, MySQL
-🍃 MongoDB
+🛢️ SQL, MySQL • 🍃 MongoDB
+
 🛠️ Tools & IDEs
-🔧 Git, GitHub
-📮 Postman
-💻 VS Code
-📓 Jupyter Notebook
-🐍 Anaconda
+🔧 Git, GitHub • 📮 Postman • 💻 VS Code • 📓 Jupyter Notebook • 🐍 Anaconda
+
 ⭐ Areas of Interest
-Machine Learning
-Deep Learning
-Computer Vision
-Generative AI
+Machine Learning | Deep Learning | Computer Vision
 AI Applications
 Data Science
