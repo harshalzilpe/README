@@ -19,6 +19,7 @@ Let's connect and collaborate on Machine Learning, AI, and Software Development 
 🌐 GitHub: https://github.com/harshalzilpe
 
 🚀 Highlight Projects
+
 📊 End-to-End ML Projects (Regression, Classification, Clustering)
 🧠 Deep Learning Models (ANN, CNN, RNN, NLP)
 📦 File Packer & Unpacker (System Utility)
